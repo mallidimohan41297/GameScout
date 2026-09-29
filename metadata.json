@@ -1,0 +1,8 @@
+{
+  "name": "GameScout",
+  "description": "Game discovery engine with filters, external review links and a small interactive 3D hero.",
+  "design": "White paper background, yellow primary, vibrant pink/orange accents, dark typography, playful editorial card shapes.",
+  "liveData": "Optional RAWG API integration via server-side route.",
+  "reviewPolicy": "Outbound links only; do not copy full third-party reviews.",
+  "difficulty": "GameScout estimate on a 1-5 scale."
+}
